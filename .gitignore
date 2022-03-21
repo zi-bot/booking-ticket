@@ -1,0 +1,6 @@
+.idea
+.env
+go.sum
+Goers
+*.pdf
+.DS_Store
